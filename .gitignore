@@ -1,0 +1,18 @@
+# Visual Studio-related exclusions
+.vs/
+*.vcxproj.user
+*.VC.db
+ipch/
+*.sdf
+*.opensdf
+Debug/
+Release/
+
+# Windows-specific
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Assembly library or binaries
+*.lib
+*.obj
